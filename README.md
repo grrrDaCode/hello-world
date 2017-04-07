@@ -1,4 +1,4 @@
 # hello-world
 GitHub Guide 
 
-Sometimes a think... I should eat less chips.
+Sometimes I think... I should eat less chips.
